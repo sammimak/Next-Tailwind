@@ -1,0 +1,13 @@
+.next
+.husky
+
+coverage
+
+public
+node_modules
+
+.prettierignore
+.eslintignore
+
+yarn.lock
+package-lock.json
